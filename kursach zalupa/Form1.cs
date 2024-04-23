@@ -29,7 +29,15 @@ namespace kursach_zalupa
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string query = textBox1.Text;
+           
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
     }
+
+
 }
