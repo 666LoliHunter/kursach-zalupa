@@ -16,5 +16,20 @@ namespace kursach_zalupa
         {
             InitializeComponent();
         }
+
+        private void oleDbConnection1_InfoMessage(object sender, System.Data.OleDb.OleDbInfoMessageEventArgs e)
+        {
+
+        }
+
+        private void oleDbConnection1_InfoMessage_1(object sender, System.Data.OleDb.OleDbInfoMessageEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
